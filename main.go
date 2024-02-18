@@ -12,7 +12,8 @@ import (
 func main() {
 	temperature, humidity := getTemperatureAndHumidity()
 	clothingType := PredictClothingType(temperature, humidity)
-	fmt.Println("Recommended clothing type:", clothingType)
+	fmt.Println("Temperature:", temperature, "°C")
+	fmt.Print(clothingType)
 }
 
 func getTemperatureAndHumidity() (float64, float64) {
