@@ -9,6 +9,7 @@ This project takes in two parameters - temperature and humidity, and based on th
 ## How to Use
 *Option 1*
 1. Input the current temperature and humidity. e.g. `go run main.go -temperature 25 -humidity 10`
+
 *Option 2*
 1. content also can be piped from my other c# [project](https://github.com/phpanhey/ClimaCoreFindorff): `echo "22 55" | go run main.go` => `./ClimaCoreFindorff | ./GoClimaWear`
 
