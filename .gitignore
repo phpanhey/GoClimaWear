@@ -22,3 +22,5 @@ go.work
 
 # ignore buildfile
 GoClimaWear
+
+.env
