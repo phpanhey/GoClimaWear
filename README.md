@@ -1,6 +1,6 @@
 # GoClimaWear
 
-GoClimaWear is a simple Go application that helps you decide what clothes to wear based on the current temperature and humidity for private family purposes. Content from other projects can be piped.
+GoClimaWear is a simple Go application that helps you decide what clothes to wear based on the current temperature and humidity for private family purposes (very handy with a ssh shortcut automation on your phone). Content from other projects can be piped.
 
 ## Project Description
 
